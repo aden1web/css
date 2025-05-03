@@ -16,12 +16,12 @@ body {
   background: #9db5ff;
 }
 .athkar-container {
-	height: calc(100% - 50px);
+//	height: calc(100% - 50px);
 	position: fixed;
 	width: 100%;
 	right: 0;
 	left: 0;
-	top: 50px;
+//	top: 50px;
 	margin: 0 auto 0 auto;
 	overflow-y: auto;
 	overflow-x: hidden;
