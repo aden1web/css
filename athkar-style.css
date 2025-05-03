@@ -6,7 +6,7 @@
 @font-face {
   font-family: "coco";
   font-display: swap;
-  src: url(CoconNextArabicLight.otf);
+  src: url(https://cdn.jsdelivr.net/gh/aden1web/fonts/CoconNextArabicLight.otf);
 }
 * {
   font-family: "coco";
